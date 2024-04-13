@@ -1,0 +1,15 @@
+import <math.p>
+import <os.p>
+
+
+cbl hello = "hello world";
+cprint(hello);
+
+cbl num1 = -5;
+abs(cbl['num1'],num2);
+cprint(num2)
+
+cbl for = "cprint('hi,I'm codex.);";
+for(5,for);
+
+run(cbl['cpu']);
