@@ -9,17 +9,17 @@
 
 **打印语句**
 
-cprint(str|int|variable)
-
-str:
-    cprint("hello world");
-
-int:
-    cprint(114514);
-
-variable:
-    cbl hello = "hello world";
-    cprint(hello);
+    cprint(str|int|variable)
+    
+    str:
+        cprint("hello world");
+    
+    int:
+        cprint(114514);
+    
+    variable:
+        cbl hello = "hello world";
+        cprint(hello);
 
 
 
